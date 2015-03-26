@@ -25,3 +25,8 @@ In contrast to the more traditional process of `submit > peer review > publish` 
 
 * Does this article structure make sense? Would it be better all in one file? [Create an issue](https://github.com/peerj/paper-now/issues) to discuss it.
 * Made changes to the layout templates or some other part of the code? [Fork this repository](https://github.com/peerj/paper-now/fork), make your changes, and [send a pull request](https://github.com/peerj/paper-now/pulls).
+
+## There is a missing step, about setting up GHPages
+
+But it is addressed in [this blog post](http://hublog.hubmed.org/archives/001994.html). I haven't tried to follow
+the instructions yet. Hopefully it will be simple.
